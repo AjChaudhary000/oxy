@@ -1,0 +1,128 @@
+*{
+    padding: 0px auto;
+    margin: 0px auto;
+
+}
+.main-con{
+   min-height: 4500px;
+    width: 100%;
+    background-color:whitesmoke;
+}
+.header{
+    background-color: whitesmoke;
+    grid-template-columns:5% 95%;
+    min-height:200px;
+    width: 100%;
+    
+}
+
+.logo{
+    background-color:  whitesmoke;
+     height: 200px;
+
+}
+.head_sec{
+    height: 100%;
+    /*width: 100%;*/
+    background-color: whitesmoke;
+    grid-template-rows:30% 70%;
+}
+.title{
+    background-color: whitesmoke;
+    width: 100%;
+    display: grid;
+    height: 100%;
+    text-align: center;
+    padding-top: 15px;
+     grid-template-columns:15% 15% 15% 40% 15%;
+}
+.menu{
+    background: linear-gradient(285.18deg, #252453 92.97%, rgba(37, 36, 83, 0) 95%);
+    height: 135px;
+    min-width: 101.80%;
+    display: grid;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    grid-template-columns:5% 10% 10% 10% 10% 10% 10% 10% 10% 15% ;
+       
+}
+
+.bg{
+    min-height: 20px;
+    width: 20px;
+    text-align: center;
+    background-color: blue;
+    border-radius: 100%;
+}
+.nav-item{
+    margin-top: 10px ;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: white;
+}
+.nav-item1:hover{
+    padding-bottom: 20px;
+    border-bottom: 2px solid red;
+    width: 100px;
+}
+.Abouts{
+   display: grid;
+   grid-template-columns: 50% 50%;
+   width: 50%; 
+   height: 200px;
+   align-self: center;
+   margin-top: 100px;
+   margin-bottom: 50px;
+}
+.Abouts_title{
+    border-right: 2px solid navajowhite ;
+    height: 160px;
+}
+.ex{
+   display: grid;
+   grid-template-columns: 50% 50%;
+   width: 80%; 
+   height: 200px;
+   align-self: center;
+   margin-top: 100px;
+   margin-bottom: 50px;
+}
+.ex_box{
+    background: #252453;
+    width: 300px;
+    height: 100px;
+    margin-left: -250px;
+    margin-top: -50px;
+}
+.project{
+  height: 400px;
+  margin-top:200px ;
+  background-color: #252453; 
+  display: grid;
+  grid-template-columns: 20% 80%; 
+}
+.project_text{
+    width: 100%;
+    height: 400px;
+}
+.project_image{
+    width: 100%;
+    height: 400px;
+}
+.services{
+    height: 200px;
+}
+.services_text{
+    border: none;
+    padding-right: 200px;
+    border-right: 2px solid lightblue;
+}
+.services_box{
+    background-color: #252453;
+    margin-left: 30px;
+    padding-top: 20px;
+}
+.construction_image{
+    margin-top: 200px;
+}
