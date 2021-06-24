@@ -4,7 +4,7 @@
 
 }
 .main-con{
-   min-height: 4500px;
+   min-height: 5500px;
     width: 100%;
     background-color:whitesmoke;
 }
@@ -67,9 +67,7 @@
     width: 100px;
 }
 .Abouts{
-   display: grid;
-   grid-template-columns: 50% 50%;
-   width: 50%; 
+   
    height: 200px;
    align-self: center;
    margin-top: 100px;
