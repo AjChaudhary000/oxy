@@ -19,5 +19,4 @@ https://jsonformatter.org/json-editor
 2021-07-13 17:03:38.544779+0530 WeatherApp[3524:93245] [MC] Reading from private effective user settings.
 2021-07-13 17:03:47.397379+0530 WeatherApp[3524:93245] [Common] _BSMachError: port 15003; (os/kern) invalid capability (0x14) "Unable to insert COPY_SEND"
 
-
-2f4325e82b49488ba9771844211407
+New API Key: 6e24ce0b954f4e7489772119211407
